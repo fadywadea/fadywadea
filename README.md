@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Back-end, Node.js, MongoDB, Mongoose, Express, Front-End, React**
 
-- 📫 How to reach me **fwadea3@gmail.com**
+- 📫 How to reach me **fadywadea71@gmail.com**
 
 - ⚡ Fun fact **I'm funny**
 
